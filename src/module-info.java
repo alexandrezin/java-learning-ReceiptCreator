@@ -1,0 +1,2 @@
+module Receipt_Creator {
+}
